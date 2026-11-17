@@ -1,5 +1,7 @@
 # slide-controller
 
+[![CI](https://github.com/1kickdown/slide-controller/actions/workflows/ci.yml/badge.svg)](https://github.com/1kickdown/slide-controller/actions/workflows/ci.yml)
+
 Position controller and command interface for a motor-driven linear slide (lift, arm, gantry axis) in embedded-style C99, with a small simulation, tests and CI.
 
 This is a learning project in simulation. It is not production code, it has not been run on a microcontroller, and it makes no claim of MISRA or functional-safety compliance.
