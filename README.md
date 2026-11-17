@@ -74,4 +74,4 @@ An early version of the profile could overshoot its target and leave the softwar
 - Simple plant: one axis, linear damping and Coulomb friction, no gravity, no backlash, no current model, no sensor noise beyond encoder quantisation.
 - Controller gains are hand-tuned for this plant, not optimised. The peak speed overshoots the profile limit by about 6 %.
 - The protocol has no addressing, sequence numbers or acknowledgements.
-- The GitHub Actions workflow is set up for GCC and Clang on Linux. Locally it has been built and tested with Apple Clang only.
+- The GitHub Actions workflow is set up for GCC and Clang on Linux.
